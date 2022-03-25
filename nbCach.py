@@ -1,9 +1,9 @@
 import random
 
 print("*********************Nombre Secret**********************")
+
 #generation du nombre aleatoire
 secret=random.randint(1,101)
-print("********************************************************")
 
 flag=False
 compteur=0
